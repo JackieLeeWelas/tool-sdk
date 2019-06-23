@@ -1,13 +1,0 @@
-
-1squid:S1220""Move this file to a named package.
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†Åƒï
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ùâ¸øÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(™×É‘üÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(¤¦Ï
-<squid:S1905"'Remove this unnecessary cast to "Todo".(Ù·û³
