@@ -1,0 +1,12 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«Îï®þÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šÄôÚüÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é›Ç˜ýÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÚá²
+Ksquid:S1068"7Remove this unused "firstFourCategories" private field.(ƒ¥¶'
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àâÔ£üÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë´¼ˆøÿÿÿÿ
+Nsquid:S1068"9Remove this unused "defaultMainCategories" private field.(Ò‚ˆÖ
+Rsquid:S1068"8Remove this unused "defaultAllCategories" private field.(½ÿçìøÿÿÿÿ
